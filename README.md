@@ -1,0 +1,1 @@
+# Pratical7.cpp
